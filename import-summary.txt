@@ -1,0 +1,661 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/pubnubheartrate-master.iml
+* .idea/workspace.xml
+* README.md
+* README_IOS.md
+* heart-rate-alert/
+* heart-rate-alert/README.md
+* heart-rate-alert/css/
+* heart-rate-alert/css/app.css
+* heart-rate-alert/css/famous.css
+* heart-rate-alert/css/famous_styles.css
+* heart-rate-alert/css/main.css
+* heart-rate-alert/css/material-fullpalette.css
+* heart-rate-alert/css/material-fullpalette.css.map
+* heart-rate-alert/css/material-fullpalette.min.css
+* heart-rate-alert/css/material-fullpalette.min.css.map
+* heart-rate-alert/css/material.css
+* heart-rate-alert/css/material.css.map
+* heart-rate-alert/css/material.min.css
+* heart-rate-alert/css/material.min.css.map
+* heart-rate-alert/css/ripples.css
+* heart-rate-alert/css/ripples.css.map
+* heart-rate-alert/css/ripples.min.css
+* heart-rate-alert/css/ripples.min.css.map
+* heart-rate-alert/css/roboto.css
+* heart-rate-alert/css/roboto.css.map
+* heart-rate-alert/css/roboto.min.css
+* heart-rate-alert/css/roboto.min.css.map
+* heart-rate-alert/fonts/
+* heart-rate-alert/fonts/LICENSE.txt
+* heart-rate-alert/fonts/Material-Design-Icons.eot
+* heart-rate-alert/fonts/Material-Design-Icons.svg
+* heart-rate-alert/fonts/Material-Design-Icons.ttf
+* heart-rate-alert/fonts/Material-Design-Icons.woff
+* heart-rate-alert/fonts/RobotoDraftBold.woff
+* heart-rate-alert/fonts/RobotoDraftBold.woff2
+* heart-rate-alert/fonts/RobotoDraftItalic.woff
+* heart-rate-alert/fonts/RobotoDraftItalic.woff2
+* heart-rate-alert/fonts/RobotoDraftMedium.woff
+* heart-rate-alert/fonts/RobotoDraftMedium.woff2
+* heart-rate-alert/fonts/RobotoDraftRegular.woff
+* heart-rate-alert/fonts/RobotoDraftRegular.woff2
+* heart-rate-alert/index.html
+* heart-rate-alert/js/
+* heart-rate-alert/js/classList.js
+* heart-rate-alert/js/functionPrototypeBind.js
+* heart-rate-alert/js/main.js
+* heart-rate-alert/js/material.js
+* heart-rate-alert/js/material.min.js
+* heart-rate-alert/js/material.min.js.map
+* heart-rate-alert/js/requestAnimationFrame.js
+* heart-rate-alert/js/require.js
+* heart-rate-alert/js/ripples.js
+* heart-rate-alert/js/ripples.min.js
+* heart-rate-alert/js/ripples.min.js.map
+* heart-rate-alert/mainfm.js
+* iOS_client/
+* iOS_client/HeartRateApp/
+* iOS_client/HeartRateApp/.DS_Store
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/project.pbxproj
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/project.xcworkspace/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/project.xcworkspace/xcshareddata/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/project.xcworkspace/xcshareddata/SampleHeartRateApp.xccheckout
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/project.xcworkspace/xcuserdata/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/project.xcworkspace/xcuserdata/chrisgreening.xcuserdatad/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/project.xcworkspace/xcuserdata/chrisgreening.xcuserdatad/UserInterfaceState.xcuserstate
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/project.xcworkspace/xcuserdata/gurpreetsingh.xcuserdatad/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/project.xcworkspace/xcuserdata/gurpreetsingh.xcuserdatad/UserInterfaceState.xcuserstate
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/chrisgreening.xcuserdatad/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/chrisgreening.xcuserdatad/xcdebugger/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/chrisgreening.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/chrisgreening.xcuserdatad/xcschemes/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/chrisgreening.xcuserdatad/xcschemes/SampleHeartRateApp.xcscheme
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/chrisgreening.xcuserdatad/xcschemes/xcschememanagement.plist
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/xcdebugger/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/xcschemes/
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/xcschemes/HeartRateApp.xcscheme
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/xcschemes/SampleHeartRateApp.xcscheme
+* iOS_client/HeartRateApp/HeartRateApp.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/xcschemes/xcschememanagement.plist
+* iOS_client/HeartRateApp/Podfile.lock
+* iOS_client/HeartRateApp/Pods/
+* iOS_client/HeartRateApp/Pods/AFNetworking/
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFNetworking.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/LICENSE
+* iOS_client/HeartRateApp/Pods/AFNetworking/README.md
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/CocoaLumberjack.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/CocoaLumberjack.swift
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDASLLogCapture.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDASLLogCapture.m
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDASLLogger.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDASLLogger.m
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.m
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDAssertMacros.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDFileLogger.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDFileLogger.m
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDLegacyMacros.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDLog+LOGV.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDLog.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDLog.m
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDLogMacros.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDTTYLogger.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/DDTTYLogger.m
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/Extensions/
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.m
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.m
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.h
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.m
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/LICENSE.txt
+* iOS_client/HeartRateApp/Pods/CocoaLumberjack/README.md
+* iOS_client/HeartRateApp/Pods/Headers/
+* iOS_client/HeartRateApp/Pods/Headers/Private/
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/AFHTTPRequestOperation.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/AFHTTPRequestOperationManager.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/AFHTTPSessionManager.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/AFNetworkActivityIndicatorManager.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/AFNetworkReachabilityManager.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/AFSecurityPolicy.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/AFURLConnectionOperation.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/AFURLRequestSerialization.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/AFURLResponseSerialization.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/AFURLSessionManager.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/UIActivityIndicatorView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/UIAlertView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/UIButton+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/UIImageView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/UIKit+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/UIProgressView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/UIRefreshControl+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/AFNetworking/UIWebView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/CocoaLumberjack.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDASLLogCapture.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDASLLogger.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDAbstractDatabaseLogger.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDAssertMacros.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDContextFilterLogFormatter.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDDispatchQueueLogFormatter.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDFileLogger.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDLegacyMacros.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDLog+LOGV.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDLog.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDLogMacros.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDMultiFormatter.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/CocoaLumberjack/DDTTYLogger.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNAES.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNAPNSEnabledChannelsResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNAcknowledgmentStatus.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNArray.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNChannel.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNChannelClientStateResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNChannelGroupAuditionParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNChannelGroupChannelsResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNChannelGroupClientStateResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNChannelGroupModificationParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNChannelGroupsResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNClass.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNClientState.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNClientStateParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNClientStateUpdateStatus.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNConfiguration+Private.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNConfiguration.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNConstants.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNData.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNDictionary.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNErrorCodes.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNErrorParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNErrorStatus.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNGZIP.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNHeartbeat.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNHeartbeatParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNHelpers.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNHistoryParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNHistoryResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNJSON.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNLeaveParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNLog.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNLogFileManager.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNLogger.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNMessagePublishParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNNetwork.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNObjectEventListener.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNPresenceChannelGroupHereNowResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNPresenceChannelHereNowResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNPresenceGlobalHereNowResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNPresenceHereNowParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNPresenceWhereNowParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNPresenceWhereNowResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNPrivateStructures.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNPublishStatus.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNPushNotificationsAuditParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNPushNotificationsStateModificationParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNReachability.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNRemoveDeviceFromAPNSResponseParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNRequestParameters.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNResult+Private.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNServiceData+Private.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNServiceData.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNStateListener.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNStatus+Private.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNStatus.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNString.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNStructures.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNSubscribeParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNSubscribeStatus.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNSubscriber.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNSubscriberResults.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNTimeParser.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNTimeResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNURLBuilder.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PNURLRequest.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub+APNS.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub+ChannelGroup.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub+Core.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub+CorePrivate.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub+History.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub+Presence.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub+PresencePrivate.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub+Publish.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub+State.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub+Subscribe.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub+SubscribePrivate.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub+Time.h
+* iOS_client/HeartRateApp/Pods/Headers/Private/PubNub/PubNub.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/AFHTTPRequestOperation.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/AFHTTPRequestOperationManager.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/AFHTTPSessionManager.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/AFNetworkActivityIndicatorManager.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/AFNetworkReachabilityManager.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/AFSecurityPolicy.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/AFURLConnectionOperation.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/AFURLRequestSerialization.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/AFURLResponseSerialization.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/AFURLSessionManager.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/UIActivityIndicatorView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/UIAlertView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/UIButton+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/UIImageView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/UIKit+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/UIProgressView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/UIRefreshControl+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/AFNetworking/UIWebView+AFNetworking.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/CocoaLumberjack.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDASLLogCapture.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDASLLogger.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDAbstractDatabaseLogger.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDAssertMacros.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDContextFilterLogFormatter.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDDispatchQueueLogFormatter.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDFileLogger.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDLegacyMacros.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDLog+LOGV.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDLog.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDLogMacros.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDMultiFormatter.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/CocoaLumberjack/DDTTYLogger.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNAES.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNAPNSEnabledChannelsResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNAcknowledgmentStatus.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNChannelClientStateResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNChannelGroupChannelsResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNChannelGroupClientStateResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNChannelGroupsResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNClientStateUpdateStatus.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNConfiguration.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNConstants.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNErrorCodes.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNErrorStatus.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNHistoryResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNLog.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNLogger.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNObjectEventListener.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNPresenceChannelGroupHereNowResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNPresenceChannelHereNowResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNPresenceGlobalHereNowResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNPresenceWhereNowResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNPublishStatus.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNResult+Private.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNServiceData+Private.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNServiceData.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNStatus+Private.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNStatus.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNStructures.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNSubscribeStatus.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNSubscriberResults.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PNTimeResult.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PubNub+APNS.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PubNub+ChannelGroup.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PubNub+Core.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PubNub+History.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PubNub+Presence.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PubNub+Publish.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PubNub+State.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PubNub+Subscribe.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PubNub+Time.h
+* iOS_client/HeartRateApp/Pods/Headers/Public/PubNub/PubNub.h
+* iOS_client/HeartRateApp/Pods/Manifest.lock
+* iOS_client/HeartRateApp/Pods/Pods.xcodeproj/
+* iOS_client/HeartRateApp/Pods/Pods.xcodeproj/project.pbxproj
+* iOS_client/HeartRateApp/Pods/Pods.xcodeproj/xcuserdata/
+* iOS_client/HeartRateApp/Pods/Pods.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/
+* iOS_client/HeartRateApp/Pods/Pods.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/xcschemes/
+* iOS_client/HeartRateApp/Pods/Pods.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/xcschemes/Pods-AFNetworking.xcscheme
+* iOS_client/HeartRateApp/Pods/Pods.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/xcschemes/Pods-CocoaLumberjack.xcscheme
+* iOS_client/HeartRateApp/Pods/Pods.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/xcschemes/Pods-PubNub.xcscheme
+* iOS_client/HeartRateApp/Pods/Pods.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/xcschemes/Pods.xcscheme
+* iOS_client/HeartRateApp/Pods/Pods.xcodeproj/xcuserdata/gurpreetsingh.xcuserdatad/xcschemes/xcschememanagement.plist
+* iOS_client/HeartRateApp/Pods/PubNub/
+* iOS_client/HeartRateApp/Pods/PubNub/LICENSE
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+APNS.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+APNS.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+ChannelGroup.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+ChannelGroup.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+Core.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+Core.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+CorePrivate.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+History.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+History.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+Presence.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+Presence.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+PresencePrivate.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+Publish.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+Publish.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+State.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+State.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+Subscribe.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+Subscribe.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+SubscribePrivate.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+Time.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Core/PubNub+Time.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Managers/
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Managers/PNClientState.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Managers/PNClientState.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Managers/PNHeartbeat.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Managers/PNHeartbeat.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Managers/PNStateListener.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Managers/PNStateListener.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Managers/PNSubscriber.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Managers/PNSubscriber.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/PNAES.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/PNAES.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/PNConfiguration+Private.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/PNConfiguration.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/PNConfiguration.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNAPNSEnabledChannelsResult.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNAPNSEnabledChannelsResult.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNAcknowledgmentStatus.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNAcknowledgmentStatus.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNChannelClientStateResult.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNChannelClientStateResult.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNChannelGroupChannelsResult.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNChannelGroupChannelsResult.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNChannelGroupClientStateResult.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNChannelGroupClientStateResult.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNChannelGroupsResult.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNChannelGroupsResult.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNClientStateUpdateStatus.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNClientStateUpdateStatus.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNErrorStatus.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNErrorStatus.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNHistoryResult.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNHistoryResult.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNPresenceChannelGroupHereNowResult.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNPresenceChannelGroupHereNowResult.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNPresenceChannelHereNowResult.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNPresenceChannelHereNowResult.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNPresenceGlobalHereNowResult.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNPresenceGlobalHereNowResult.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNPresenceWhereNowResult.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNPresenceWhereNowResult.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNPublishStatus.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNPublishStatus.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNResult+Private.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNResult.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNResult.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNServiceData+Private.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNServiceData.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNServiceData.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNStatus+Private.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNStatus.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNStatus.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNSubscribeStatus.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNSubscribeStatus.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNSubscriberResults.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNSubscriberResults.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNTimeResult.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Data/Service Objects/PNTimeResult.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNArray.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNArray.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNChannel.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNChannel.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNClass.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNClass.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNData.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNData.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNDictionary.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNDictionary.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNGZIP.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNGZIP.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNHelpers.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNJSON.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNJSON.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNString.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNString.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNURLRequest.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Helpers/PNURLRequest.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Logger/
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Logger/PNLog.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Logger/PNLog.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Logger/PNLogFileManager.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Logger/PNLogFileManager.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Logger/PNLogger.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Logger/PNLogger.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/PNConstants.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/PNErrorCodes.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/PNPrivateStructures.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/PNStructures.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Protocols/
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Protocols/PNObjectEventListener.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Misc/Protocols/PNParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/PNNetwork.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/PNNetwork.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/PNReachability.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/PNReachability.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/PNRequestParameters.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/PNRequestParameters.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/PNURLBuilder.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/PNURLBuilder.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNChannelGroupAuditionParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNChannelGroupAuditionParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNChannelGroupModificationParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNChannelGroupModificationParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNClientStateParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNClientStateParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNErrorParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNErrorParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNHeartbeatParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNHeartbeatParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNHistoryParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNHistoryParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNLeaveParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNLeaveParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNMessagePublishParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNMessagePublishParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNPresenceHereNowParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNPresenceHereNowParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNPresenceWhereNowParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNPresenceWhereNowParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNPushNotificationsAuditParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNPushNotificationsAuditParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNPushNotificationsStateModificationParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNPushNotificationsStateModificationParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNRemoveDeviceFromAPNSResponseParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNRemoveDeviceFromAPNSResponseParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNSubscribeParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNSubscribeParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNTimeParser.h
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/Network/Parsers/PNTimeParser.m
+* iOS_client/HeartRateApp/Pods/PubNub/PubNub/PubNub.h
+* iOS_client/HeartRateApp/Pods/PubNub/README.md
+* iOS_client/HeartRateApp/Pods/Target Support Files/
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-AFNetworking/
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-AFNetworking/Info.plist
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-AFNetworking/Pods-AFNetworking-Private.xcconfig
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-AFNetworking/Pods-AFNetworking-dummy.m
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-AFNetworking/Pods-AFNetworking-prefix.pch
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-AFNetworking/Pods-AFNetworking-umbrella.h
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-AFNetworking/Pods-AFNetworking.modulemap
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-AFNetworking/Pods-AFNetworking.xcconfig
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-CocoaLumberjack/
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-CocoaLumberjack/Info.plist
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-CocoaLumberjack/Pods-CocoaLumberjack-Private.xcconfig
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-CocoaLumberjack/Pods-CocoaLumberjack-dummy.m
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-CocoaLumberjack/Pods-CocoaLumberjack-prefix.pch
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-CocoaLumberjack/Pods-CocoaLumberjack-umbrella.h
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-CocoaLumberjack/Pods-CocoaLumberjack.modulemap
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-CocoaLumberjack/Pods-CocoaLumberjack.xcconfig
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-PubNub/
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-PubNub/Info.plist
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-PubNub/Pods-PubNub-Private.xcconfig
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-PubNub/Pods-PubNub-dummy.m
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-PubNub/Pods-PubNub-prefix.pch
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-PubNub/Pods-PubNub-umbrella.h
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-PubNub/Pods-PubNub.modulemap
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods-PubNub/Pods-PubNub.xcconfig
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods/
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods/Info.plist
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods/Pods-acknowledgements.markdown
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods/Pods-acknowledgements.plist
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods/Pods-dummy.m
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods/Pods-environment.h
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods/Pods-frameworks.sh
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods/Pods-resources.sh
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods/Pods-umbrella.h
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods/Pods.debug.xcconfig
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods/Pods.modulemap
+* iOS_client/HeartRateApp/Pods/Target Support Files/Pods/Pods.release.xcconfig
+* iOS_client/HeartRateApp/SampleHeartRateApp.xcworkspace/
+* iOS_client/HeartRateApp/SampleHeartRateApp.xcworkspace/contents.xcworkspacedata
+* iOS_client/HeartRateApp/SampleHeartRateApp.xcworkspace/xcuserdata/
+* iOS_client/HeartRateApp/SampleHeartRateApp.xcworkspace/xcuserdata/gurpreetsingh.xcuserdatad/
+* iOS_client/HeartRateApp/SampleHeartRateApp.xcworkspace/xcuserdata/gurpreetsingh.xcuserdatad/UserInterfaceState.xcuserstate
+* iOS_client/HeartRateApp/SampleHeartRateApp.xcworkspace/xcuserdata/gurpreetsingh.xcuserdatad/WorkspaceSettings.xcsettings
+* iOS_client/HeartRateApp/SampleHeartRateApp.xcworkspace/xcuserdata/gurpreetsingh.xcuserdatad/xcdebugger/
+* iOS_client/HeartRateApp/SampleHeartRateApp.xcworkspace/xcuserdata/gurpreetsingh.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+* iOS_client/HeartRateApp/SampleHeartRateApp/
+* iOS_client/HeartRateApp/SampleHeartRateApp/AppDelegate.h
+* iOS_client/HeartRateApp/SampleHeartRateApp/AppDelegate.m
+* iOS_client/HeartRateApp/SampleHeartRateApp/Base.lproj/
+* iOS_client/HeartRateApp/SampleHeartRateApp/Base.lproj/LaunchScreen.xib
+* iOS_client/HeartRateApp/SampleHeartRateApp/Base.lproj/Main.storyboard
+* iOS_client/HeartRateApp/SampleHeartRateApp/Black1_heart.png
+* iOS_client/HeartRateApp/SampleHeartRateApp/Filter.h
+* iOS_client/HeartRateApp/SampleHeartRateApp/Filter.m
+* iOS_client/HeartRateApp/SampleHeartRateApp/Images.xcassets/
+* iOS_client/HeartRateApp/SampleHeartRateApp/Images.xcassets/AppIcon.appiconset/
+* iOS_client/HeartRateApp/SampleHeartRateApp/Images.xcassets/AppIcon.appiconset/Contents.json
+* iOS_client/HeartRateApp/SampleHeartRateApp/Info.plist
+* iOS_client/HeartRateApp/SampleHeartRateApp/MBProgressHUD.h
+* iOS_client/HeartRateApp/SampleHeartRateApp/MBProgressHUD.m
+* iOS_client/HeartRateApp/SampleHeartRateApp/PulseDetector.h
+* iOS_client/HeartRateApp/SampleHeartRateApp/PulseDetector.mm
+* iOS_client/HeartRateApp/SampleHeartRateApp/Red_heart.png
+* iOS_client/HeartRateApp/SampleHeartRateApp/ViewController.h
+* iOS_client/HeartRateApp/SampleHeartRateApp/ViewController.m
+* iOS_client/HeartRateApp/SampleHeartRateApp/main.m
+* iOS_client/HeartRateApp/SampleHeartRateAppTests/
+* iOS_client/HeartRateApp/SampleHeartRateAppTests/Info.plist
+* iOS_client/HeartRateApp/SampleHeartRateAppTests/SampleHeartRateAppTests.m
+* iOS_client/HeartRateApp/podfile
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:20.0.0
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+appcompat-v7 => [com.android.support:appcompat-v7:20.0.0]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* libs/Pubnub-Android-3.7.3.jar => app/libs/Pubnub-Android-3.7.3.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/libs/Pubnub-Android-3.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="338e27970f39bfc29ef1c55ee4097d455b62d5e5">
+        <dex dex="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/Pubnub-Android-3.7.3_32da305127e1fd4c61460cb8bc10309ee17a8fec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sameera/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_8b8386c70f67cef65fd57623f9c600d5118830bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="372a3dbb378270dc5a0b9456e31658fc979623a5">
+        <dex dex="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f940faf365feb605c911e05115705f08bbf6d96f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="752010796dd1032027689bc802a792a61a3973db">
+        <dex dex="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de013d6e053ba79bf9940874a986a9d4a9846603/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-20.0.0_0b7b07abeeb3017ec47f2f309003bb2d2dcec18c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-20.0.0_ae1be5fc641f2f0e21ee321084933c28687b51dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-20.0.0_7e9eb23a2f697b10ee88878e682e76fe87a35756/classes.dex" />
+    </item>
+
+</items>

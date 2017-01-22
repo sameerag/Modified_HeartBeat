@@ -1,0 +1,7 @@
+#Sun Jan 22 10:47:13 EST 2017
+base.0=/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de013d6e053ba79bf9940874a986a9d4a9846603
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f940faf365feb605c911e05115705f08bbf6d96f/classes.dex
+base.1=/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f940faf365feb605c911e05115705f08bbf6d96f
+file.0=/Users/sameera/Documents/Android/pubnubheartrate-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de013d6e053ba79bf9940874a986a9d4a9846603/classes.dex
